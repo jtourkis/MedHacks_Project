@@ -1,0 +1,862 @@
+,CPT_CODE_OR_OTHER,Procedure Description,Freq,Procedure_Group_Cat,Pro_Cat
+1,10005,Fine Needle Aspiration with Imaging Guidance (#54),1,New Procedure,
+2,10022,FNA W/IMAGE,1,New Procedure,
+3,10060,Drainage of Skin Abscess,1,New Procedure,Drainage of Skin Abscess
+4,10060,"INCISION AND DRAINAGE OF ABSCESS (EG, CARBUNCLE, SUPPURATIVE HIDRADENITIS, CUTANEOUS OR SUBCUTANEOUS ABSCESS, CYST, FURUNCLE, OR PARONYCHIA); S",1,New Procedure,
+5,11042,"DEBRIDEMENT; SKIN, AND SUBCUTANEOUS TISSUE",1,New Procedure,
+6,11044,DEB BONE 20 SQ CM/<,1,New Procedure,
+7,11045,DEB SUBQ TISSUE ADD-ON,1,New Procedure,
+8,11046,DEB MUSC/FASCIA ADD-ON,1,New Procedure,
+9,11047,DEB BONE ADD-ON,1,New Procedure,
+10,12001,"SIMPLE REPAIR OF SUPERFICIAL WOUNDS OF SCALP, NECK, AXILLAE, EXTERNAL GENITALIA, TRUNK AND/OR EXTREMITIES (INCLUDING HANDS AND FEET); 2.5 CM OR",1,New Procedure,SUPERFICIAL WOUNDS REPAIR
+11,12002,"SIMPLE REPAIR OF SUPERFICIAL WOUNDS OF SCALP, NECK, AXILLAE, EXTERNAL GENITALIA, TRUNK AND/OR EXTREMITIES (INCLUDING HANDS AND FEET); 2.6 CM TO",1,New Procedure,SUPERFICIAL WOUNDS REPAIR
+12,12011,"SIMPLE REPAIR OF SUPERFICIAL WOUNDS OF FACE, EARS, EYELIDS, NOSE, LIPS AND/OR MUCOUS MEMBRANES; 2.5 CM OR LESS",1,New Procedure,SUPERFICIAL WOUNDS REPAIR
+13,12013,"SIMPLE REPAIR OF SUPERFICIAL WOUNDS OF FACE, EARS, EYELIDS, NOSE, LIPS AND/OR MUCOUS MEMBRANES; 2.6 CM TO 5.0 CM",1,New Procedure,SUPERFICIAL WOUNDS REPAIR
+14,15271,SKIN SUB GRAFT TRNK/ARM/LEG,2,New Procedure,SKIN SUB GRAFT
+15,15275,SKIN SUB GRAFT FACE/NK/HF/G,1,New Procedure,SKIN SUB GRAFT
+17,15823,Blepharoplasty upper eyelid with excessive skin weighting downlid,1,New Procedure,Blepharoplasty 
+18,17250,"CHEMICAL CAUTERIZATION OF GRANULATION TISSUE (PROUD FLESH, SINUS OR FISTULA)",1,New Procedure,
+19,19083,ALT code removed,1,New Procedure,
+20,19083,BX Breast 1st Lesion US Imag,1,New Procedure,
+21,19083,"Breast Biopsy w/Marker Plcmt,1st Lesion w/Ultrasound Guidance (#65)",1,New Procedure,Ultrasound
+22,19120,Excision Procedures on the Breast,2,New Procedure,EXCISION/SURGERY
+23,19120,"Excision, Breast Lesion",85,New Procedure,EXCISION/SURGERY
+24,19120,"Excision, Breast Lesion, without preoperative radiological marker",183,New Procedure,EXCISION/SURGERY
+25,19125,Excision Procedures on the Breast,2,New Procedure,EXCISION/SURGERY
+26,19301,MASTECTOMY PARTIAL,1,New Procedure,MASTECTOMY
+27,19301,"Mastectomy, partial",1,New Procedure,MASTECTOMY
+28,19301,PARTIAL MASTECTOMY,1,New Procedure,MASTECTOMY
+29,19303,MAST SIMPLE COMPLETE,1,New Procedure,MASTECTOMY
+30,19303,MASTECTOMY SIMPLE COMPLETE,1,New Procedure,MASTECTOMY
+31,19318,REDUCTION MAMMAPLASTY,1,New Procedure,MASTECTOMY
+32,19340,"IMMEDIATE INSERTION OF BREAST PROSTHESIS FOLLOWING MASTOPEXY, MASTECTOMY OR IN RECONSTRUCTION",1,New Procedure,MASTECTOMY
+33,19342,"DELAYED INSERTION OF BREAST PROSTHESIS FOLLOWING MASTOPEXY, MASTECTOMY OR IN RECONSTRUCTION",1,New Procedure,MASTECTOMY
+34,19380,REVISION OF RECONSTRUCTED BREAST,1,New Procedure,
+35,20610,DRAIN/INJ JOINT/BURSA W/O US,1,New Procedure,Drainage of Joint
+36,20680,Hardware removal,1,New Procedure,REMOVAL OF SUPPORT IMPLANT
+37,20680,"REMOVAL OF IMPLANT; DEEP (EG, BURIED WIRE, PIN, SCREW, METAL BAND, NAIL, ROD OR PLATE)",1,New Procedure,REMOVAL OF SUPPORT IMPLANT
+38,20680,REMOVAL OF SUPPORT IMPLANT,1,New Procedure,REMOVAL OF SUPPORT IMPLANT
+39,20680,Removal Deep Implant,1,New Procedure,REMOVAL OF SUPPORT IMPLANT
+40,20680,"Removal of implant; deep (eg, buried wire, pin, screw, metal band, nail, rod or plate)",2,New Procedure,REMOVAL OF SUPPORT IMPLANT
+41,22523,"Percutaneous vertebral augmentation, including cavity creation",1,New Procedure,
+42,22524,"Percutaneous vertebral augmentation, including cavity creation vertebral body",1,New Procedure,
+43,23350,Injection for Shoulder X-Ray,1,New Procedure,X-ray
+44,23412,Repair rotator cuff open chronic,1,New Procedure,
+45,23430,Tenodesis of long tendon of biceps,1,New Procedure,
+46,23650,"CLOSED TREATMENT OF SHOULDER DISLOCATION, WITH MANIPULATION; WITHOUT ANESTHESIA",1,New Procedure,
+47,23655,TREAT SHOULDER DISLOCATION,1,New Procedure,
+48,24620,CL TX MONTEGGIA ELB FX W MANIP,1,New Procedure,
+49,25605,"CLOSED TREATMENT OF DISTAL RADIAL FRACTURE (EG, COLLES OR SMITH TYPE) OR EPIPHYSEAL SEPARATION, WITH OR WITHOUT FRACTURE OF ULNAR STYLOID; WITH",1,New Procedure,
+50,27096,INJECT SACROILIAC JOINT,1,New Procedure,
+51,27096,"Injection procedure for sacroiliac joint, anesthetic/steroid, with image guidance (fluoroscopy or CT) including arthrography when performed",1,New Procedure,
+52,27096,Injection sacroiliac joint,1,New Procedure,
+53,27446,"ARTHROPLASTY, KNEE, CONDYLE AND PLATEAU; MEDIAL OR LATERAL COMPARTMENT",1,New Procedure,Arthroplasty
+54,27447,"ARTHROPLASTY, KNEE, CONDYLE AND PLATEAU; MEDIAL AND LATERAL COMPARTMENTS WITH OR WITHOUT PATELLA RESURFACING",1,New Procedure,Arthroplasty
+55,27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",1,New Procedure,Arthroplasty
+56,28285,REPAIR OF HAMMERTOE,1,New Procedure,
+58,28296,"HALLUX VALGUS (BUNION) CORRECTION, WITH OR WITHOUT SESAMOIDECTOMY; WITH METATARSAL OSTEOTOMY (EG, MITCHELL, CHEVRON, OR CONCENTRIC TYPE PROCEDU",1,New Procedure,
+59,28400,Clsd Tx Calcaneal Fx W/O Manip,1,New Procedure,
+60,28485,"OPEN TREATMENT OF METATARSAL FRACTURE, WITH OR WITHOUT INTERNAL OR EXTERNAL FIXATION, EACH",1,New Procedure,
+61,29105,APPLICATION OF LONG ARM SPLINT (SHOULDER TO HAND),1,New Procedure,Splints
+62,29125,APPLICATION OF SHORT ARM SPLINT (FOREARM TO HAND); STATIC,1,New Procedure,Splints
+63,29125,Apply Forearm Splint,1,New Procedure,Splints
+64,29515,APPLICATION OF SHORT LEG SPLINT (CALF TO FOOT),1,New Procedure,Splints
+65,29581,APPLY MULTLAY COMPRS LWR LEG,1,New Procedure,Splints
+66,29705,Remove full arm/leg cast,1,New Procedure,Splints
+67,29826,"Arthroscopy, Shoulder, with partial acromioplasty",267,New Procedure,Arthroscopy
+68,29827,Arthroscopy knee with synovectomy,1,New Procedure,Arthroscopy
+69,29827,"Arthroscopy, shoulder, surgical; with rotator cuff repair",1,New Procedure,Arthroscopy
+70,29876,"Arthroscopy, knee, surgical; synovectomy, major, 2 or more compartments (eg, medial or lateral)",1,New Procedure,Arthroscopy
+71,29880,"ARTHROSCOPY, KNEE, SURGICAL; WITH MENISCECTOMY (MEDIAL AND LATERAL, INCLUDING ANY MENISCAL SHAVING)",1,New Procedure,Arthroscopy
+72,29880,"Arthroscopy, knee, surgical; with meniscectomy (medial AND lateral, including any meniscal shaving)",1,New Procedure,Arthroscopy
+73,29880,KNEE ARTHROSCOPY/SURGERY,1,New Procedure,Arthroscopy
+74,29881,Arthr Knee Sur Menis M Or L,1,New Procedure,Arthroscopy
+75,29881,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",270,New Procedure,Arthroscopy
+76,29888,Arthroscopically aided anterior cruciate ligament repair/augmentation or reconstruction,1,New Procedure,Arthroscopy
+77,30420,RHINOPLASTY,1,New Procedure,
+78,30520,REPAIR OF NASAL SEPTUM,1,New Procedure,
+79,30520,"Septoplasty or submucous resection, with or without cartilage, replacement with graft",1,New Procedure,
+80,30802,"Cauter Turbinate Mucosa, Intramural",1,New Procedure,
+81,30901,"CONTROL NASAL HEMORRHAGE, ANTERIOR, SIMPLE (LIMITED CAUTERY AND/OR PACKING) ANY METHOD",1,New Procedure,
+82,31500,INTUBATION ET,1,New Procedure,INTUBATION
+83,31500,Insert Emergency Airway,1,New Procedure,INTUBATION
+84,31526,"Laryngoscopy , Direct, DX, OP Microscop",1,New Procedure,Laryngoscopy
+85,31575,LARYNGOSCOPY FLEX; DIAGNOSTIC,1,New Procedure,Laryngoscopy
+86,31624,BRONCHOSCOPY; WITH BRONCHIAL ALVEOLAR LAVAGE,1,New Procedure,
+87,31720,SUCTION NASOT,1,New Procedure,
+88,32405,"CT Scan, Chest/Lung biopsy",1,New Procedure,CT Scan
+89,32555,ASPIRATE PLEURA W/ IMAGING,1,New Procedure,
+90,33208,Insert new or replace of permanent pacemaker with transvenous electrode(s);,1,New Procedure,
+91,33249,"Insert or replaceof permpacing cardi-defibril system with trans lead(s), single or dual",1,New Procedure,
+92,33262,Rmvl & Rrplc Pulse Gen 1 Lead,1,New Procedure,
+93,33282,IMPLANT PAT ACT HT REC,1,New Procedure,
+94,35476,REPAIR VENOUS BLOCKAGE,1,New Procedure,
+95,36000,NONSELECTIVE CATH PLACEMENT IN VEIN,1,New Procedure,
+96,36415,Blood collection by venipuncture,1,New Procedure,Venipuncture
+97,36415,"COLLECTION VENOUS BLOOD,VENIPUNCTURE",4,New Procedure,Venipuncture
+98,36415,VENIPUNCT      *,2,New Procedure,Venipuncture
+99,36415,VENIPUNCTURE,1,New Procedure,Venipuncture
+100,36415,VENIPUNCTURE PHLEBOTOMY,1,New Procedure,Venipuncture
+101,36415,VENIPUNCTURE PHLEBOTOMY       /*/OUT-PT/ROUTINE,2,New Procedure,Venipuncture
+102,36415,VENIPUNCTURE ROUTINE,1,New Procedure,Venipuncture
+103,36415,VENIPUNCTURE;OUT-PT,1,New Procedure,Venipuncture
+104,36415,Venipuncture,1,New Procedure,Venipuncture
+105,36430,BLOOD TRANSFU,1,New Procedure,BLOOD TRANSFUSION SERVICE
+106,36430,BLOOD TRANSFUSION SERVICE,1,New Procedure,BLOOD TRANSFUSION SERVICE
+107,36430,Transfusion Blood/Blood Products (#342),1,New Procedure,BLOOD TRANSFUSION SERVICE
+108,36430,"Transfusion, blood or blood components",1,New Procedure,BLOOD TRANSFUSION SERVICE
+109,36514,APHERESIS PLA,1,New Procedure,
+110,36558,INSERT TUNNELED CV CATH,3,New Procedure,CATHETER Insert_Remove
+111,36561,INSERT TUNNELED CV CATH,3,New Procedure,CATHETER Insert_Remove
+112,36561,Insertion of Central Venous Access Device,1,New Procedure,CATHETER Insert_Remove
+113,36561,Insertion of Tunneled Centrally Inserted CVAD with Port (#71),1,New Procedure,CATHETER Insert_Remove
+114,36569,INSERT PICC A,1,New Procedure,CATHETER Insert_Remove
+115,36569,INSERT PICC CATH,1,New Procedure,CATHETER Insert_Remove
+116,36589,REMOVAL TUNNELED CV CATH,1,New Procedure,CATHETER Insert_Remove
+117,36589,Removal Tunneled CV Cath,1,New Procedure,CATHETER Insert_Remove
+118,36590,Removal of Central Venous Access Device,1,New Procedure,CATHETER Insert_Remove
+119,36600,ARTERIAL PUNC,1,New Procedure,
+120,36832,"AV FISTULA REVISION, OPEN",1,New Procedure,
+121,36902,Introduction Catheter in Dialysis Circuit (#57),1,New Procedure,
+122,37197,Remove Intravascular Foreign Body,1,New Procedure,
+123,37237,OPEN/PERQ PLACE STENT EA ADD,1,New Procedure,
+124,37242,Embolization (NON-CNS) Body Arterial,1,New Procedure,
+125,37765,"Stab phlebectomy of varicose viens, 1 extremity 10-20 stab inc",1,New Procedure,
+126,38220,Bone Marrow ; Aspiration only,1,New Procedure,Bone Marrow 
+127,38221,BONE MARROW BIOPSY,1,New Procedure,Bone Marrow 
+128,38222,DX BONE MARROW BX & ASPIR,1,New Procedure,Bone Marrow 
+129,38222,Diagnostic Bone Marrow Biopsy(ies) and Aspiration(s) (#58),1,New Procedure,Bone Marrow 
+130,41899,DENTAL SURGERY PROCEDURE,1,New Procedure,
+131,42820,Tonsillectomy and adenoidectomy; younger than age 12,1,New Procedure,Tonsillectomy or Adenoidectomy
+132,42820,"Tonsillectomy with Adenoidectomy, less than 12 years old",263,New Procedure,Tonsillectomy or Adenoidectomy
+133,42826,REMOVAL OF TONSILS,1,New Procedure,Tonsillectomy or Adenoidectomy
+134,42826,"Tonsillectomy with Adenoidectomy, less than 12 years old",263,New Procedure,Tonsillectomy or Adenoidectomy
+135,42830,Adenoidectomy without Tonsillectomy,1,New Procedure,Adenoidectomy
+136,43235,"Endoscopy, Upper GI, diagnostic",274,New Procedure,Endoscopy
+137,43235,"UPPR GI ENDOSCOPY, DIAGNOSIS",1,New Procedure,Endoscopy
+138,43239,EGD Biopsy single/multiple,1,New Procedure,Endoscopy
+139,43239,EGD with biopsy,1,New Procedure,Endoscopy
+140,43239,"Endoscopy, Upper GI, with biopsy",281,New Procedure,Endoscopy
+141,43246,EGD PLACE GASTROSTOMY TUBE,1,New Procedure,Endoscopy
+142,43246,"Esophagogastroduodeno, flexible, trans;direct place of percut gastomy tube",1,New Procedure,Endoscopy
+143,43246,Place Gastrostomy Tube,1,New Procedure,Endoscopy
+144,43247,EGD REMOVE FOREIGN BODY,1,New Procedure,Endoscopy
+145,43248,EGD with Guide Wire Dilation Esophagus,1,New Procedure,Endoscopy
+146,43248,Endeocopy upper GI with guidewire,1,New Procedure,Endoscopy
+147,43249,"Endoscopy, upper GI, balloon dilation of esophagus",1,New Procedure,Endoscopy
+148,43259,EGD US EXAM DUODENUM/JEJUNUM,1,New Procedure,Endoscopy
+149,44392,Colonoscopy and Polypectomy,1,New Procedure,Colonoscopy
+150,44970,Appendectomy,1,New Procedure,Appendectomy
+151,44970,"LAPAROSCOPY, SURGICAL, APPENDECTOMY",1,New Procedure,Laparoscopy
+152,44970,Laparoscopy Appendectomy,1,New Procedure,Laparoscopy
+153,45005,DRAINAGE OF RECTAL ABSCESS,1,New Procedure,Drainage of Skin Abscess
+154,45378,"Colonoscopy, Diagnostic",1,New Procedure,Colonoscopy
+155,45378,"Colonoscopy, diagnostic",281,New Procedure,Colonoscopy
+156,45380,Colonoscopy W/Biopsy Single/Multiple,1,New Procedure,Colonoscopy
+157,45380,"Colonoscopy, with Biopsy",1,New Procedure,Colonoscopy
+158,45380,"Colonoscopy, with biopsy",280,New Procedure,Colonoscopy
+159,45383,LESION REMOVAL COLONOSCOPY,1,New Procedure,Colonoscopy
+160,45384,Colonoscopy w/Lesion removal,1,New Procedure,Colonoscopy
+161,45384,"Colonoscopy, flexible; with removal of tumor(s),polyp(s)",1,New Procedure,Colonoscopy
+162,45385,"Colonoscopy, with lesion removal, by snare technique",276,New Procedure,Colonoscopy
+163,45390,COLONOSCOPY W/RESECTION,1,New Procedure,Colonoscopy
+164,46040,INCISION OF RECTAL ABSCESS,1,New Procedure,
+165,47000,"BIOPSY OF LIVER, NEEDLE; PERCUTANEOUS",1,New Procedure,BIOPSY
+166,47000,NEEDLE BIOPSY OF LIVER,1,New Procedure,BIOPSY
+167,47562,LAPAROSCOPIC CHOLECYSTECTOMY,1,New Procedure,Laparoscopy
+168,47562,Laparoscopic Cholecystectomy,270,New Procedure,Laparoscopy
+169,47562,"Laparoscopy, cholecystectomy",1,New Procedure,Laparoscopy
+170,47563,Laparoscopic Cholecystectomy,270,New Procedure,Laparoscopy
+171,49083,ABD PARACENTESIS W/IMAGING,2,New Procedure,Abdominal Paracentesis with Imaging
+172,49083,Abdominal Paracentesis w/Imaging,,,Abdominal Paracentesis with Imaging
+173,49083,Abdominal Paracentesis with imaging guidance (#121),1,New Procedure,Abdominal Paracentesis with Imaging
+174,49083,Abdominal paracentesis (diagnostic or therapeutic); with imaging guidance,1,New Procedure,Abdominal Paracentesis with Imaging
+175,49083,Paracentesis Abdominal with imaging guidance,2,New Procedure,Abdominal Paracentesis with Imaging
+176,49424,Contrast Injection for Assessment of Cyst/Abscess via Catheter (#53),1,New Procedure,
+177,49450,Replacement of Gastrostomy or Cecostomy Tube (#41),1,New Procedure,Gastrostomy Tube
+178,49505,"Hernia Repair, Inguinal, 5 years and older",272,New Procedure,Hernia Repair
+179,49507,PRP I/HERN INIT BLOCK >5 YR,2,New Procedure,
+180,49585,Repair Umbilical Hernia,1,New Procedure,
+181,49650,Hernia Laparoscopic Procedures,1,New Procedure,
+182,49650,Lap Ing Hernia repait Init,1,New Procedure,Hernia Repair
+183,50200,BIOPSY OF KIDNEY,1,New Procedure,BIOPSY
+184,50200,"Biopsy of Kidney, Percutaneous",1,New Procedure,BIOPSY
+185,50435,Exchange Nephrostomy Cath,1,New Procedure,
+186,50590,FRAGMENTING OF KIDNEY STONE,1,New Procedure,KIDNEY STONE
+187,50590,"LITHOTRIPSY, EXTRACORPOREAL SHOCK WAVE",1,New Procedure,Lithotripsy
+188,50590,"Lithotripsy, extracorporeal shock wave",1,New Procedure,Lithotripsy
+189,51701,INSERT BLADDER CATHETER,1,New Procedure,
+190,51702,"INSERTION OF TEMPORARY INDWELLING BLADDER CATHETER; SIMPLE (EG, FOLEY)",1,New Procedure,
+191,51702,Insertion of Temporary Indwelling Bladder Catheter; Simple (#121),1,New Procedure,
+192,52000,CYSTOURETHROSCOPY,1,New Procedure,CYSTOURETHROSCOPY
+193,52000,Scope of Bladder and Urethra,2,New Procedure,
+194,52234,"CYSTOURETHROSCOPY, WITH FULGURATION (INCLUDING CRYOSURGERY OR LASER SURGERY) AND/OR RESECTION OF; SMALL BLADDER TUMOR(S) (0.5 TO 2.0 CM)",1,New Procedure,CYSTOURETHROSCOPY
+195,52235,"CYSTOURETHROSCOPY, WITH FULGURATION (INCLUDING CRYOSURGERY OR LASER SURGERY) AND/OR RESECTION OF; MEDIUM BLADDER TUMOR(S) (2.0 TO 5.0 CM)",1,New Procedure,CYSTOURETHROSCOPY
+196,52332,"CYSTOURETHROSCOPY, WITH INSERTION OF INDWELLING URETERAL STENT (EG, GIBBONS OR DOUBLE-J TYPE)",1,New Procedure,CYSTOURETHROSCOPY
+197,52356,CYSTO/URETERO W/LITHOTRIPSY,1,New Procedure,
+198,52356,"Cystourethroscopy, with ureteroscopy and/or pyeloscopy; with lithotripsy including insertion of indwelling ureteral stent (eg, Gibbons or double-J type)",1,New Procedure,CYSTOURETHROSCOPY
+199,52648,"CONTACT LASER VAPORIZATION W W/O TRANSURETHRAL RESECTION PROSTATE, INC CONTROL POSTOPERATIVE BLEEDING, COMPLETE (VASECTOMY, MEATOTOMY, CYSTOURE",1,New Procedure,
+200,52648,LASER SURGERY OF PROSTATE,1,New Procedure,
+201,54161,CIRCUMCISION,1,New Procedure,
+202,54405,INSERT MULTI-COMP PENIS PROS,1,New Procedure,
+203,54640,"Orchiopexy, Ingunial Approach",1,New Procedure,
+204,57288,REPAIR BLADDER DEFECT,1,New Procedure,
+205,57520,Conization of Cervix,1,New Procedure,
+206,58120,DILATION AND CURETTAGE,1,New Procedure,
+208,58301,REMOVE INTRAUTERINE DEVICE,1,New Procedure,
+209,58552,"LAPAROSCOPY SURGICAL, WITH VAGINAL HYSTERECTOMY, FOR UTERUS 250 GRAMS OR LESS; WITH REMOVAL OF TUBE(S) AND/OR OVARY(S)",1,New Procedure,Laparoscopy
+210,58552,"Laparoscopy, surgical, with vaginal hysterectomy",1,New Procedure,Laparoscopy
+211,58558,"HYSTEROSCOPY, BIOPSY",2,New Procedure,Hysteroscopy
+212,58558,"HYSTEROSCOPY, SURGICAL; WITH SAMPLING (BIOPSY) OF ENDOMETRIUM AND/OR POLYPECTOMY, WITH OR WITHOUT D & C",1,New Procedure,Hysteroscopy
+213,58558,"Hysteroscopy, surgical",1,New Procedure,Hysteroscopy
+214,58558,"Hysteroscopy, surgical, sampling,bx, endometrium,polypectomy",1,New Procedure,Hysteroscopy
+215,58561,"HYSTEROSCOPY, SURGICAL; WITH REMOVAL OF LEIOMYOMATA",1,New Procedure,Hysteroscopy
+216,58563,"HYSTEROSCOPY, SURGICAL; WITH ENDOMETRIAL ABLATION (EG, ENDOMETRIAL RESECTION, ELECTROSURGICAL ABLATION, THERMOABLATION)",1,New Procedure,Hysteroscopy
+217,58563,HYSTERSCOPY ABLATION,1,New Procedure,Hysteroscopy
+218,58563,Laparoscopic/Hysteroscopic Procedures on Corpus Uteri,1,New Procedure,Laparoscopy
+219,58565,"HYSTEROSCOPY, STERILIZATION",1,New Procedure,Hysteroscopy
+220,58600,DIVISION OF FALLOPIAN TUBE,1,New Procedure,
+221,58661,"LAPAROSCOPY, REMOVE ADNEXA",1,New Procedure,Laparoscopy
+222,58661,"LAPAROSCOPY, SURGICAL; WITH REMOVAL OF ADNEXAL STRUCTURES (PARTIAL OR TOTAL OOPHORECTOMY AND/OR SALPINGECTOMY)",1,New Procedure,Laparoscopy
+223,58661,Laparoscopy remove adnexa,1,New Procedure,Laparoscopy
+224,58662,"LAPAROSCOPY, SURGICAL; WITH FULGURATION OR EXCISION OF LESIONS OF THE OVARY, PELVIC VISCERA, OR PERITONEAL SURFACE BY ANY METHOD",1,New Procedure,Laparoscopy
+225,58670,"LAPAROSCOPY, TUBAL CAUTERY",2,New Procedure,Laparoscopy
+226,59000,Amniocentesis Diag,1,New Procedure,
+227,59025,FETAL NON-STRESS TEST,1,New Procedure,
+228,59025,Fetal Non-Stress Test,1,New Procedure,
+229,59025,Fetal Non-stress test,1,New Procedure,
+230,59320,REVISION OF CERVIX,1,New Procedure,
+231,59514,Cesarean delivery only;,1,New Procedure,Cesarean delivery only
+232,59812,TREATMENT OF MISCARRIAGE,1,New Procedure,
+233,59820,CARE OF MISCARRIAGE,1,New Procedure,MISCARRIAGE
+234,59820,"Treatment of missed abortion, completed surgically, first trimester",1,New Procedure,Abortion
+235,59820,"Treatment of missed abortion, completed surgically; first trimester",1,New Procedure,Abortion
+236,59841,ABORTION,1,New Procedure,Abortion
+237,60100,BIOPYS OF THYROID,1,New Procedure,BIOPSY
+238,60200,"Excision of cyst or adenoma of thyroid, or transection of isthmus",1,New Procedure,EXCISION/SURGERY
+239,60500,EXPLORE PARATHYROID GLANDS,1,New Procedure,
+240,62270,"SPINAL PUNCTURE, LUMBAR, DIAGNOSTIC",1,New Procedure,
+241,62311,"Injection, Diagnostic or Therapeutic substance, epidural",17,New Procedure,Epidural
+242,62311,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",218,New Procedure,Epidural
+243,62321,"Injection(s), of diagnostic or therapeutic substance(s) (eg, anesthetic, antispasmodic, opioid, steroid, other solution), not including neurolytic substances, including needle or catheter placement, interlaminar epidural or subarachnoid, cervical or thoracic; with imaging guidance (ie, fluoroscopy or CT)",1,New Procedure,
+244,62321,NJX INTERLAMINAR CRV/THRC,1,New Procedure,
+245,62321,Steroid injection cervical/thoracic,1,New Procedure,
+246,62322,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",218,New Procedure,Epidural
+247,62322,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar w/o imaging guidance",23,New Procedure,Epidural
+249,62323,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",218,New Procedure,Epidural
+250,62323,NJX INTERLAMINAR LMBR/SAC,3,New Procedure,
+251,62323,Steroid injection lumbar,1,New Procedure,
+252,63030,"LAMINOTOMY (HEMILAMINECTOMY), W DECOMPRESSION OF NERVE ROOT(S), INCL PARTIAL FACETECTOMY, FORAMINOTOMY &/ EXCISION OF HERNIATED INTERVERT DISK;",1,New Procedure,
+253,64483,INJ NRV BLK TRANSFORAMINAL L/S LVL1,1,New Procedure,
+254,64483,"Injection, Anesthetic or Steroid, transforaminal epidural",17,New Procedure,Epidural
+255,64483,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",221,New Procedure,Epidural
+256,64483,"Injection, Anesthetic or Steroid, transforaminal epidural, sacral",29,New Procedure,Epidural
+257,64490,INJ PARAVERT F JNT C/T 1 LEV,1,New Procedure,
+258,64490,Injection facet cervical or thoracic single level,1,New Procedure,
+259,64490,"Injection(s), diagnostic or therapeutic agent, paravertebral facet (zygapophyseal) joint (or nerves innervating that joint) with image guidance (fluoroscopy or",1,New Procedure,
+260,64493,INJ PARAVERT F JNT L/S 1 LEV,1,New Procedure,
+261,64493,Injection facet joint with fluoroscopy single level,1,New Procedure,
+262,64493,"Injection(s), diagnostic or therapeutic agent, paravertebral facet (zygapophyseal) joint (or nerves innervating that joint) with image guidance (fluoroscopy or CT), lumbar or sacral; single level",1,New Procedure,
+263,64635,DESTROY LUMB/SAC FACET JNT,1,New Procedure,
+264,64635,"Destruction by neurolytic agent, paravertebral facet joint nerve(s), with imaging guidance (fluoroscopy or CT); lumbar or sacral, single facet joint",1,New Procedure,
+265,64635,Destruction facet joint lumbar single level,1,New Procedure,
+266,64721,Carpal Tunnel Surgery,270,New Procedure,Carpal Tunnel Surgery
+267,65426,Excision or transposition of pterygium; with graft,1,New Procedure,EXCISION/SURGERY
+268,65730,CORNEAL TRANSPLANT,1,New Procedure,
+269,65855,Trabeculoplasty by laser surgery,1,New Procedure,
+270,66761,"Iridotomy/iridectomy by laser surgery (eg, for glaucoma) (per session)",1,New Procedure,
+271,66821,"Discission, secondary membranous cataract, laser surgery",261,New Procedure,"Cataract, laser surgery"
+272,66825,Reposition Intraocular lens,1,New Procedure,
+273,66982,Cataract extraction with iol complex,1,New Procedure,"Cataract, laser surgery"
+274,66982,"Extracapsular cataract removal with insertion of intraocular lens prosthesis (1-stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification), complex, requiring devices or techniques not generally used in routine cataract surgery (eg, iris expansion device, suture support for intraocular lens, or primary posterior capsulorrhexis) or performed on patients in the amblyogenic developmental stage",1,New Procedure,"Cataract, laser surgery"
+275,66984,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",271,New Procedure,"Cataract, laser surgery"
+276,66984,Cataract removal lens implant,1,New Procedure,"Cataract, laser surgery"
+277,67028,INJECTION EYE DRUG,1,New Procedure,
+278,67040,"Vitrectomy, mechanical, pars plana approach; with endolaser panretinal photocoagulation",2,New Procedure,Vitrectomy
+279,67041,"Vitrectomy, mechanical, pars plana approach; with removal of preretinal cellular membrane (eg, macular pucker)",1,New Procedure,Vitrectomy
+280,67042,"Vitrectomy, mechanical, pars plana approach; with removal of internal limiting membrane of retina",1,New Procedure,Vitrectomy
+281,67108,REPAIR DETACHED RETINA,1,New Procedure,Detached Retina
+282,67108,"Repair of retinal detachment; with vitrectomy, any method, including, when performed, air or gas tamponade, focal endolaser photocoagulation, cryotherapy, drainage of subretinal fluid, scleral buckling, and/or removal of lens by same technique",1,New Procedure,Detached Retina
+283,67108,"Repair of retinal detachment; with vitrectomy, any method, with or without air or gas tamponade, focal endolaser",1,New Procedure,Detached Retina
+284,67113,Repair of complex retinal detachment,1,New Procedure,Detached Retina
+285,67113,"Repair of complex retinal detachment (eg, proliferative vitreoretinopathy, stage C-1 or greater, diabetic traction retinal detachment, retinopathy of prematurity, retinal tear of greater than 90 degrees), with vitrectomy and membrane peeling, may include air, gas, or silicone oil tamponade, cryotherapy, endolaser photocoagulation, drainage of subretinal fluid, scleral buckling, and/or removal of lens",1,New Procedure,Detached Retina
+286,67311,"STRABISMUS SURGERY, RECESSION OR RESECTION PROCEDURE; ONE HORIZONTAL MUSCLE",1,New Procedure,
+287,67311,"Stabismus Surg, One Horiz Muscle",1,New Procedure,
+288,69200,CLEAR OUTER EAR CANAL,1,New Procedure,CLEAR OUTER EAR CANAL
+289,69436,"Tympanostomy (insert ventilating  tube, general anesthesia)",249,New Procedure,Tympanostomy
+290,70250,"X-Ray examination, skull; less than 4 views",1,New Procedure,X-ray
+291,70250,"X-Ray, Skull Les 4 views",1,New Procedure,X-ray
+292,70450,"CT Scan, Head or Brain, without contrast",291,New Procedure,CT Scan
+293,70450,"CT Scan, Head, Without Contrast",1,New Procedure,CT Scan
+294,70553,"MRI, Brain, without contrast, followed by contrast",179,New Procedure,MRI
+295,70553,"MRI, Head or Brain, without contrast, followed by contrast",74,New Procedure,MRI
+296,71010,CHEST SINGLE VW,1,New Procedure,X-ray
+297,71010,CHEST X-RAY 1 VW,1,New Procedure,X-ray
+298,71010,Chest x-ray 1 view frontal,1,New Procedure,X-ray
+299,71010,"X-Ray, Chest, one views",2,New Procedure,X-ray
+300,71020,"X-Ray, Chest, two views",288,New Procedure,X-ray
+301,71020,X-Rray - Chest 2 Views,1,New Procedure,X-ray
+303,71045,CHEST 1 VIEW,1,New Procedure,X-ray
+304,71045,CHEST XRAY 1 VIEW,3,New Procedure,X-ray
+305,71045,Chest Xray 1 view,1,New Procedure,X-ray
+306,71045,"Radiologic examination, chest; single view, frontal",2,New Procedure,X-ray
+307,71045,X-Ray Exam Chest 1 View,1,New Procedure,X-ray
+308,71045,"X-Ray, Chest , one views",1,New Procedure,X-ray
+309,71045,"X-Ray, Chest 1 view",1,New Procedure,X-ray
+310,71045,"X-Ray, Chest one view",1,New Procedure,X-ray
+311,71045,"X-Ray, Chest, one view",7,New Procedure,X-ray
+312,71045,"X-Ray, Chest, one views",2,New Procedure,X-ray
+313,71045,XR Chest 1 View (Portable),1,New Procedure,X-ray
+314,71046,CHEST XRAY 2 VIEWS,1,New Procedure,X-ray
+315,71046,X-Ray Exam Chest 2 View,1,New Procedure,X-ray
+316,71046,"X-Ray, Chest PA & Lateral",1,New Procedure,X-ray
+317,71046,"X-Ray, Chest, two views",288,New Procedure,X-ray
+318,71046,"X-Ray, Chest, two views; 71020 deleted; replaced code 71046",1,New Procedure,X-ray
+319,71100,"X-Ray, Ribs Unilateral 2 Views",1,New Procedure,X-ray
+320,71130,W-Ray Joint 3 + V,1,New Procedure,
+321,71275,CT Angiography Chest,1,New Procedure,CT Angiogram
+322,72050,"X-Ray, Lower Back, minimum four views",178,New Procedure,X-ray
+323,72052,X-ray exam neck spine 6/>vws,1,New Procedure,X-ray
+324,72070,"Radiologic examination, spine; thoracic, 2 views",3,New Procedure,X-ray
+325,72081,Spine - 1 view,1,New Procedure,
+326,72082,XR Exam,1,New Procedure,X-ray
+327,72100,X-ray exam Lumbosacral Spine 2/3 views,2,New Procedure,X-ray
+328,72100,X-ray exam l-s spine 2/3 vws,1,New Procedure,X-ray
+329,72110,"X-Ray, Lower Back, four views",75,New Procedure,X-ray
+330,72110,"X-Ray, Lower Back, minimum four views",178,New Procedure,X-ray
+331,72110,"X-Ray, Lumbo Sacral, four views",29,New Procedure,X-ray
+332,72110,"X-Ray, Spine, Lumbosacral 4 view",1,New Procedure,X-ray
+333,72110,XR SPINE LUMBAR 4 Views+,1,New Procedure,X-ray
+334,72114,X-ray exam l-s spine bending,1,New Procedure,X-ray
+335,72125,"CT Scan, Cervical Spine without contrast",1,New Procedure,CT Scan
+336,72125,"CT Scan, Cervical Spine, without contrast",1,New Procedure,CT Scan
+337,72125,Cervical Spine without contrast,1,New Procedure,
+338,72148,Mri lumbar spine w/o dye,1,New Procedure,MRI
+339,72170,Pelvis - 1-2 views,1,New Procedure,
+340,72193,"CT Scan, Pelvis, with contrast",281,New Procedure,CT Scan
+341,73030,X-ray Exam of Shoulder,2,New Procedure,X-ray
+342,73070,Xray Elbow 2 Views,1,New Procedure,X-ray
+343,73080,Elbow - left min 3 views,1,New Procedure,Electrocardiogram
+344,73090,Forearm - right 2 views,1,New Procedure,X-ray
+345,73100,Wrist - left 2 views,1,New Procedure,X-ray
+346,73100,Xray Wrist 2 Views,1,New Procedure,X-ray
+347,73110,Wrist - right min 3 views,1,New Procedure,X-ray
+348,73110,"X-Ray, Wrist",1,New Procedure,X-ray
+349,73115,X-Ray Arthrogram Wrist,1,New Procedure,X-ray
+350,73130,X-Ray Exam Of Hand,1,New Procedure,X-ray
+351,73130,"X-Ray, Hand",1,New Procedure,X-ray
+352,73130,"X-Ray, Hand three views or more",1,New Procedure,X-ray
+353,73130,X-ray Exam of Hand,2,New Procedure,X-ray
+354,73140,Finger(s) - right min 2 views,1,New Procedure,X-ray
+355,73140,X-Ray Exam Of Finger(s),1,New Procedure,X-ray
+356,73521,"X-Ray, Hips Bilateral With Pelvis 2 Views",1,New Procedure,X-ray
+357,73560,Knee left 1-2 views,1,New Procedure,
+358,73560,"Radiologic examination, knee; 1 or 2 views",1,New Procedure,X-ray
+359,73562,"X-Ray, Knee",1,New Procedure,X-ray
+360,73562,X-ray Exam of Knee 3 views,2,New Procedure,X-ray
+361,73590,Tibia/fibula - left 1 view,1,New Procedure,
+362,73600,Ankle - bilateral 2 views,1,New Procedure,X-ray
+363,73610,Ankle - right min 3 views,1,New Procedure,X-ray
+364,73610,X-Ray Exam Of Ankle,1,New Procedure,X-ray
+365,73620,Foot - bilateral 1 view,1,New Procedure,X-ray
+366,73620,"Xray, Foot",1,New Procedure,X-ray
+367,73630,Foot - left 3 or > views,1,New Procedure,X-ray
+368,73630,X-Ray Exam Of Foot,1,New Procedure,X-ray
+369,74000,"X-ray, Chest, Abdomen",1,New Procedure,X-ray
+370,74018,"Abdomen one view, KUB",1,New Procedure,X-ray
+371,74018,X-Ray Exam Abdomen 1 View,1,New Procedure,X-ray
+372,74019,Xray Abdomen 2 View,1,New Procedure,X-ray
+373,74150,"CT Scan, Abdomen, without contrast",1,New Procedure,CT Scan
+374,74160,"CT Scan, Abdomen, with contrast",281,New Procedure,CT Scan
+375,74174,CT Angio ABD&PELV W/O & W/DYE,1,New Procedure,CT Angiogram
+376,74176,"CT Scan, Abd & Pelvis, without contrast",1,New Procedure,CT Scan
+377,74176,"CT Scan, Abdomen & Pelvis without contrast",2,New Procedure,CT Scan
+378,74176,"CT Scan, Abdomen and Pelvis, without contrast",1,New Procedure,CT Scan
+379,74177,CT ABD & PELV,1,New Procedure,CT Scan
+380,74177,"CT Scan, Abd & Pelvis, with contrast",1,New Procedure,CT Scan
+381,74240,UPPER GI STOMACH W/O KUB,1,New Procedure,Endoscopy
+382,74241,UPPER GI STOMACH W/KUB,1,New Procedure,Endoscopy
+383,74241,"X-Ray Upper GI, with or without delayed images, with KUB",1,New Procedure,X-ray
+384,74245,UPPER GI W/SMALL BOWELL,1,New Procedure,Endoscopy
+385,74247,UPPER GI W/AIR W/KUB,1,New Procedure,Endoscopy
+386,76536,US Exam of Head and Neck,2,New Procedure,
+387,76641,Ultrasound Breast Complete,1,New Procedure,Ultrasound
+388,76700,"Ultrasound, Abdomen, Complete",292,New Procedure,Ultrasound
+389,76705,ULTRASOUND ABDOMEN LIMITED,1,New Procedure,Ultrasound
+390,76770,Ultrasound bladder & kidneys,1,New Procedure,Ultrasound
+391,76801,"Ultrasound, OB <14 weeks, single fetus",1,New Procedure,Ultrasound
+392,76805,"Ultrasound, OB, 14 weeks or more, single fetus, transabdominal",28,New Procedure,Ultrasound
+393,76805,"Ultrasound, OB, 14 weeks or more, transabdominal",255,New Procedure,Ultrasound
+394,76813,Ultrasound 1st Trimester Fetal Nuchal Translucency Measurement; 1st Gestation,1,New Procedure,Ultrasound
+395,76815,"Ultrasound, Limited (size, PL. LOC, Position)",1,New Procedure,Ultrasound
+396,76815,"Ultrasound, OB, Limited Fetus",1,New Procedure,Ultrasound
+397,76856,Ultrasound Pelvis Echogram Complete,1,New Procedure,Ultrasound
+398,77057,MRI Breast Unilat with and without contrast,1,New Procedure,MRI
+399,77057,"Mammography, Screening, Bilateral",232,New Procedure,Mammography
+400,77063,Breast Tomosynthesis Bilateral,1,New Procedure,
+401,77067,Mammo Screening w/CAD Bilateral,1,New Procedure,Mammography
+402,77067,"Mammography, Screening, Bilateral",232,New Procedure,Mammography
+403,77067,SCREENING MAMMOGRAPHY BI 2-VIEW BREAST INC CAD,6,New Procedure,Mammography
+404,77067,"Screening mammography, bilateral (CAD) when performed",29,New Procedure,Mammography
+405,77073,"Bone length studies (orthoroentgenogram, scanogram)",1,New Procedure,
+406,77080,Dxa Bone Density Study,1,New Procedure,
+407,80047,Basic Metabolic Panel,299,New Procedure,Metabolic Panel
+408,80047,Basic Metabolic Panel ION,1,New Procedure,Metabolic Panel
+409,80048,BASIC METABOLIC PANEL,1,New Procedure,Metabolic Panel
+410,80048,Basic Metabolic Panel,299,New Procedure,Metabolic Panel
+411,80053,COMP METABOLIC PANEL,1,New Procedure,Metabolic Panel
+412,80053,Comprehensive Metabolic Panel,304,New Procedure,Metabolic Panel
+413,80053,Metabolic Panel Complete,1,New Procedure,Metabolic Panel
+414,80061,Coronary Lipid Panel,1,New Procedure,
+415,80061,Lipid Panel,299,New Procedure,
+416,80069,Renal Function Panel,2,New Procedure,Renal Function Panel
+417,80076,HEPATIC FUNCTION PANEL,1,New Procedure,Hepatic Function Panel
+418,80076,Hepatic Function Panel,1,New Procedure,Hepatic Function Panel
+419,80076,Hepatic function panel,1,New Procedure,Hepatic Function Panel
+420,80100,Dilantin,1,New Procedure,
+421,80101,Drug Screen,2,New Procedure,
+422,80164,VALPROIC ACID TOTAL,1,New Procedure,Valporic Acid
+423,80164,Valporic Acid,1,New Procedure,Valporic Acid
+424,80178,Assay of Lithium,1,New Procedure,
+425,80178,LITHIUM,1,New Procedure,
+426,80178,Lithium,2,New Procedure,
+427,80299,"Quantitation of Therapeutic Drug, not elsewhere specified",1,New Procedure,
+428,80307,DRUG SCREEN URINE MULT,1,New Procedure,
+429,80307,"DRUG TEST(S), PRESUMPTIVE, ANY NUMBER OF DRUG CLASSES",1,New Procedure,
+430,80307,Drug Screen,2,New Procedure,
+431,80307,Drug Test Presumptive by Chemical Analysis,1,New Procedure,
+432,80307,Drug Test Prsmv Chem Anlyzr,2,New Procedure,
+433,80320,Ethanol Level,1,New Procedure,
+434,80329,Acetaminophen Level,1,New Procedure,Acetaminophen Level
+435,80329,Salicylate Level,1,New Procedure,
+436,81000,"Urinalysis, non-automated",1,New Procedure,Urinalysis
+437,81000,"Urinalysis, with microscopy",263,New Procedure,Urinalysis
+438,81000,"Urinalysis, with microscopy, non-automated",1,New Procedure,Urinalysis
+440,81001,Autom Urine Dip W Micro,2,New Procedure,
+441,81001,Urinalysis Automated w/ Scope,1,New Procedure,Urinalysis
+442,81001,"Urinalysis, with microscopy",263,New Procedure,Urinalysis
+443,81001,"Urinalysis, with microscopy, automated",1,New Procedure,Urinalysis
+444,81002,"Urinalysis, automated without microscopy",1,New Procedure,Urinalysis
+445,81002,"Urinalysis, without microscopy",256,New Procedure,Urinalysis
+446,81002,"Urinalysis, without microscopy, non-automated",1,New Procedure,Urinalysis
+449,81003,"Urinalysis, without microscopy",256,New Procedure,Urinalysis
+450,81003,"Urinalysis, without microscopy, automated",1,New Procedure,Urinalysis
+451,81015,Microscopic exam of urine,1,New Procedure,
+452,81025,"ER URINE PREGNANCY TEST,VISUAL",1,New Procedure,
+453,81025,URINE PREG TEST QUAL,1,New Procedure,Pregnancy Test
+454,81025,Urine Pregnancy Visual Color,2,New Procedure,Pregnancy Test
+455,81025,Urine pregnancy test,1,New Procedure,Pregnancy Test
+456,82040,Albumin,1,New Procedure,
+457,82140,Ammonia,2,New Procedure,
+458,82150,AMYLASE,2,New Procedure,Amylase
+459,82150,Amylase,2,New Procedure,Amylase
+460,82306,VITAMIN D 25 HYDROXY,1,New Procedure,
+461,82374,Carbon dioxide (bicarbonate),1,New Procedure,
+462,82550,CK (CPK) TOTAL,1,New Procedure,
+463,82550,CK TOTAL,1,New Procedure,
+464,82550,CK Total,1,New Procedure,
+465,82550,"Creatine Kinase (CK), (CPK), Total",284,New Procedure,Creatine Kinase (CK)
+466,82553,CKMB Fraction,1,New Procedure,
+467,82553,CPK-MB,1,New Procedure,
+468,82553,Creatine Kinase (CPK) MB Fraction Only,1,New Procedure,Creatine Kinase (CK)
+469,82565,Creatinine; blood,2,New Procedure,Creatine Kinase (CK)
+470,82570,CREATININE URINE,3,New Procedure,Creatine Kinase (CK)
+471,82570,Creatinine; other source,1,New Procedure,Creatine Kinase (CK)
+472,82607,Cyanocobalamin (Vitamin B-12),2,New Procedure,Cyanocobalamin (Vitamin B-12)
+473,82607,Cyanocobalamin (vitamin b-12),1,New Procedure,Cyanocobalamin (Vitamin B-12)
+474,82607,Vitamin B12,1,New Procedure,
+475,82728,Ferritin,2,New Procedure,
+476,82746,Folic acid; serum,2,New Procedure,
+477,82784,"Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",1,New Procedure,
+478,82800,"Gases, Blood, PH only",1,New Procedure,Blood Gas Analysis
+479,82803,"Blood Gas Analysis, including 02 saturation",268,New Procedure,Blood Gas Analysis
+480,82803,"Blood Gases, any Combination",1,New Procedure,Blood Gas Analysis
+481,82803,Blood Gasses Any Combination,1,New Procedure,Blood Gas Analysis
+482,82805,BLD GASES W/O,1,New Procedure,Blood Gas Analysis
+483,82805,"Blood Gas Analysis, including 02 saturation",268,New Procedure,Blood Gas Analysis
+484,82947,Blood glucose (sugar) level,1,New Procedure,Glucose blood test
+485,82947,"Glucose; quantitative, blood (except reagent strip)",2,New Procedure,Glucose blood test
+486,82948,Glucose Blood Reagent Strip,1,New Procedure,Glucose blood test
+487,82950,Glucose 2 hr W Glucola,1,New Procedure,Glucose blood test
+488,82962,GLUCOSE BLOOD TEST,4,New Procedure,Glucose blood test
+489,82962,GLUCOSE FDA APP HOME USE,1,New Procedure,Glucose blood test
+490,82962,GLUCOSE POCT,1,New Procedure,Glucose blood test
+491,82962,"GLUCOSE, WHOLE BLOOD",1,New Procedure,Glucose blood test
+492,82962,Glucose blood test,1,New Procedure,Glucose blood test
+493,82962,"Glucose, blood by glucose monitoring device(s)",1,New Procedure,Glucose blood test
+494,83036,GLYCOHEMGLOBIN,5,New Procedure,Glucose blood test
+495,83036,Glycosylated Hemoglobin Test,3,New Procedure,Glucose blood test
+496,83036,Glycosylated hemoglobin test,1,New Procedure,Glucose blood test
+497,83036,HEMOGLOBIN GLYCATED A1C,1,New Procedure,Glucose blood test
+498,83036,Hemoglobin A1C level,1,New Procedure,Glucose blood test
+499,83036,Hemoglobin; glycosylated (A1C),2,New Procedure,Glucose blood test
+500,83036,Hemoglobin; glycosylated (a1c),1,New Procedure,Glucose blood test
+501,83516,Immunoassay Nonantibody,1,New Procedure,
+502,83540,Iron,2,New Procedure,
+503,83550,Iron binding capacity,2,New Procedure,
+504,83615,Lactate Dehydrogenase Ldh,1,New Procedure,
+505,83615,"Lactate dehydrogenase (LD), (LDH)",2,New Procedure,
+506,83690,LIPASE,4,New Procedure,LIPASE
+507,83690,Lipase,4,New Procedure,LIPASE
+508,83692,Lipase,4,New Procedure,LIPASE
+509,83735,Assay Of Magnesium,1,New Procedure,MAGNESIUM BLOOD
+510,83735,MAGNESIUM,1,New Procedure,MAGNESIUM BLOOD
+511,83735,MAGNESIUM BLOOD,2,New Procedure,MAGNESIUM BLOOD
+512,83735,Magnesium,4,New Procedure,MAGNESIUM BLOOD
+513,83880,B-TYP NATRIURETC PEPTIDE,1,New Procedure,
+514,84100,PHOSPHORUS BLOOD,1,New Procedure,
+515,84132,Potassium,1,New Procedure,
+516,84295,Sodium,1,New Procedure,
+517,84439,FREE THYROXINE,4,New Procedure,
+518,84439,Free T4,1,New Procedure,
+519,84439,Thyroxine; free,2,New Procedure,
+520,84443,TSH,2,New Procedure,
+521,84443,Thyroid Stimulating Hormone,292,New Procedure,
+523,84450,AST/SGOT,1,New Procedure,
+524,84478,Triglycerides,1,New Procedure,
+525,84484,TROPONIN I,1,New Procedure,
+526,84484,"Troponin, Quantitative",291,New Procedure,Troponin
+527,84550,Uric acid; blood,2,New Procedure,
+528,84703,GONA CHR(HCG)QL,1,New Procedure,Gonadotropin
+529,84703,Gonadotropin (reproductive hormone) analysis,1,New Procedure,Gonadotropin
+530,84703,"Gonadotropin, chorionic (hcg); qualitative",1,New Procedure,Gonadotropin
+531,84703,PREGNANCY URINE TEST,1,New Procedure,Pregnancy Test
+532,85007,DIFFERENTIAL MANUAL,1,New Procedure,
+533,85025,Complete Blood Count with Differential,1,New Procedure,"Complete Blood Count, with differential WBC, automated"
+534,85025,"Complete Blood Count, with differential WBC, automated",298,New Procedure,"Complete Blood Count, with differential WBC, automated"
+535,85027,"Complete Blood Count, automated",287,New Procedure,"Complete Blood Count, with differential WBC, automated"
+536,85027,"Hemogram &Platelet Count, auto",5,New Procedure,
+537,85610,PROTIME (PT),1,New Procedure,
+538,85610,Prothrombin Time,292,New Procedure,
+540,85651,"Sedimentation rate, erythrocyte; non-automated",1,New Procedure,
+541,85652,SED RATE RBC AUTO,1,New Procedure,
+542,85730,APTT OR PTT,1,New Procedure,
+543,85730,Partial Thromboplastin Time,289,New Procedure,Partial Thromboplastin
+545,86780,"Analysis for antibody, Treponema pallidum",1,New Procedure,
+546,86850,Rbc antibody screen,1,New Procedure,
+547,86900,BLD TYPE ABO ONLY,1,New Procedure,
+548,86900,Blood typing abo,1,New Procedure,
+549,86901,Blood typing rh (d),1,New Procedure,
+550,86922,Compatibility test antiglob,1,New Procedure,
+551,87040,BLOOD CULTURE FOR BACTERIA,1,New Procedure,Blood Culture
+552,87040,Blood Culture,1,New Procedure,Blood Culture
+553,87040,Blood culture for bacteria,1,New Procedure,Blood Culture
+554,87040,CULT BLD AER/AN,1,New Procedure,Blood Culture
+555,87040,CULT-BLOOD,1,New Procedure,Blood Culture
+556,87070,Culture Eye,1,New Procedure,
+557,87081,BACTERIA CULTURE SCREEN,4,New Procedure,BACTERIA CULTURE
+558,87081,"Culture, presumptive, pathogenic organisms, screening only",1,New Procedure,BACTERIA CULTURE
+559,87086,BACT CULTURE-URINE; QUAN COUNT,1,New Procedure,Urinalysis
+560,87086,Urine Culture,2,New Procedure,Urinalysis
+561,87086,Urine Culturecolony Count,1,New Procedure,Urinalysis
+562,87186,MICROBE SUSCEPTIBLE MIC,1,New Procedure,
+563,87205,Smear - Gram Or Giemsa,2,New Procedure,
+564,87340,Hepatitis B,1,New Procedure,Hepatitis B
+565,87389,Detection test for HIV-1 and HIV-2,1,New Procedure,HIV Test
+566,87591,N.GONORRHOEAE DNA AMP PROB,1,New Procedure,
+567,90715,"TDAP Vaccing, ages 7+",1,New Procedure,
+568,90791,Psychiatric Diagnostic Evaluation,1,New Procedure,Individual Therapy
+569,90832,IDIVIDUAL THERAPY 30MIN,1,New Procedure,Individual Therapy
+570,90832,PSYTX PT/FAMILY 30 MINUTES,1,New Procedure,FAMILY THERAPY
+571,90834,IDIVIDUAL THERAPY 45MIN,1,New Procedure,Individual Therapy
+572,90834,PSYCH TX W/PT/FAM 45 M - Psych OP,1,New Procedure,FAMILY THERAPY
+573,90834,PSYTX PT/FAMILY 45 MINUTES,1,New Procedure,FAMILY THERAPY
+574,90834,Psych/Indiv Extended,1,New Procedure,Individual Therapy
+575,90834,"Psychotherapy, 45 minutes with patient",1,New Procedure,Individual Therapy
+576,90835,Psych/Indiv Brief,1,New Procedure,Individual Therapy
+577,90837,IDIVIDUAL THERAPY 60MIN,1,New Procedure,Individual Therapy
+578,90846,FAMILY PSYTX W/O PATIENT,1,New Procedure,FAMILY THERAPY
+579,90847,PSYCH FAMILY W/PATIENT -  Partial Hospitalization,1,New Procedure,FAMILY THERAPY
+580,90847,Psych/Group Family,1,New Procedure,GROUP THERAPY
+581,90849,PHP MULTIPLE FAMILY GRP,1,New Procedure,
+582,90853,ADOLESC PHP FULL DAY,2,New Procedure,Physical Therapy
+583,90853,ADOLESC PSYCH IOP,2,New Procedure,Individual Therapy
+584,90853,ADULT PHP FULL DAY,2,New Procedure,Physical Therapy
+585,90853,ADULT PSYCH IOP,2,New Procedure,Individual Therapy
+586,90853,CD GROUP THER IOP,2,New Procedure,GROUP THERAPY
+587,90853,GROUP PSYCHOTHERAPY,10,New Procedure,GROUP THERAPY
+588,90853,GROUP THERAPY,2,New Procedure,GROUP THERAPY
+589,90853,GROUP THERAPY  OPS  No longer use,1,New Procedure,GROUP THERAPY
+590,90853,GROUP THERAPY 60MIN,2,New Procedure,GROUP THERAPY
+591,90853,GROUP THERAPY IOP,2,New Procedure,GROUP THERAPY
+592,90853,Group Psychotherapy,1,New Procedure,GROUP THERAPY
+593,90853,Group Psychotherapy not Multi Family,1,New Procedure,GROUP THERAPY
+594,90853,Group psychotherapy (other than of a multiple-family group),1,New Procedure,GROUP THERAPY
+595,90853,PSYCH GROUP OTHER,1,New Procedure,GROUP THERAPY
+596,90853,PSYCH GROUP PHP Partial Hospitalization,1,New Procedure,GROUP THERAPY
+597,90853,PSYCHTX GRP 45 MIN,1,New Procedure,GROUP THERAPY
+598,90853,Psych/Group Rx,1,New Procedure,GROUP THERAPY
+599,90857,ADULT PARTIAL HOSPITAL,1,New Procedure,
+600,90857,INTENSIVE OUTPT,1,New Procedure,
+601,90857,INTENSIVE OUTPT - Group Therapy,1,New Procedure,GROUP THERAPY
+602,90870,ECT TREATMENT,1,New Procedure,
+603,90870,ELECTROCONVULSIVE THERAPY,1,New Procedure,Electroconvulsive therapy (includes necessary monitoring)
+604,90870,Electroconvulsive therapy (includes necessary monitoring),1,New Procedure,Electroconvulsive therapy (includes necessary monitoring)
+605,90899,PSYCHIATRIC SERVICE/THERAPY,1,New Procedure,Individual Therapy
+606,91010,ESOPHAGUS MOTILITY STUDY,1,New Procedure,
+607,91122,ANAL PRESSURE RECORD,1,New Procedure,
+620,92015,Determination of refractive state,1,New Procedure,
+621,92506,Speech Evaluation,1,New Procedure,Speech Language Treatment
+622,92507,ST Tx SP/Lng/Vce/C,3,New Procedure,
+623,92507,Speech Language Treatment,1,New Procedure,Speech Language Treatment
+624,92523,ST Speech&Lang Eva,3,New Procedure,
+625,92610,Swallow Evaluation,1,New Procedure,
+626,92937,PRQ Revasc Bypass Graft Single Vessel,1,New Procedure,
+627,93000,"Electrocardiogram, routine, with interpretation and report",231,New Procedure,Electrocardiogram
+629,93005,ECG,4,New Procedure,Echocardiography
+630,93005,ECG 12 Leads,2,New Procedure,Echocardiography
+631,93005,ECG TRACING ONLY,1,New Procedure,Echocardiography
+632,93005,EKG,2,New Procedure,Electrocardiogram
+633,93005,"EKG , routine",1,New Procedure,Electrocardiogram
+634,93005,EKG Complete,1,New Procedure,Electrocardiogram
+635,93005,EKG TRACING ONLY,1,New Procedure,Electrocardiogram
+636,93005,EKG tracing only / no interpretation,1,New Procedure,Electrocardiogram
+637,93005,"ELECTROCARDIOGRAM, TRACING",1,New Procedure,Electrocardiogram
+638,93005,Electrocardiogram 12 Lead Tracing Only,29,New Procedure,Electrocardiogram
+639,93005,Electrocardiogram Tracing,2,New Procedure,Electrocardiogram
+640,93005,Electrocardiogram Tracing only,1,New Procedure,Electrocardiogram
+641,93005,Electrocardiogram tracing,1,New Procedure,Electrocardiogram
+642,93005,"Electrocardiogram, 12 Lead, Tracing Only",1,New Procedure,Electrocardiogram
+643,93005,"Electrocardiogram, routine, tracing only",1,New Procedure,Electrocardiogram
+644,93005,"Electrocardiogram, routine, tracing only, w/o interpretation and report",4,New Procedure,Electrocardiogram
+645,93005,"Electrocardiogram, routine, with at least 12 leads, tracing only",1,New Procedure,Electrocardiogram
+646,93005,"Electrocardiogram, routine, with interpretation and report",231,New Procedure,Electrocardiogram
+647,93005,"Electrocardiogram, routine; tracing only, w/o interpertation and report",1,New Procedure,Electrocardiogram
+648,93005,"Electrocardiogram, tracing",1,New Procedure,Electrocardiogram
+649,93005,HC 12 LEAD EG; TRACING ONLY,1,New Procedure,
+650,93005,HC EKG TRACING ONLY,1,New Procedure,Electrocardiogram
+651,93005,Pediatric EKG,1,New Procedure,
+652,93010,"Electrocardiogram, routine, with at least 12 leads, interpretation and report only",1,New Procedure,Electrocardiogram
+653,93017,CARDIOVASCULAR STRESS TEST,1,New Procedure,CARDIOVASCULAR STRESS TEST
+654,93303,HC ECHO COMP CONGENITAL,1,New Procedure,Echocardiography
+655,93306,2D Echo TTE  Complete,1,New Procedure,Echocardiography
+656,93306,TT ECHO with Doppler Complete,1,New Procedure,Echocardiography
+657,93306,TT ECHO with Doppler complete,1,New Procedure,Echocardiography
+658,93306,TTE w/Doppler Complete,2,New Procedure,Echocardiography
+659,93306,"TTE w/Doppler, Complete",1,New Procedure,Echocardiography
+660,93307,ECHO DOPPLER,1,New Procedure,Echocardiography
+661,93307,"Echocardiography, Transthoracic, complete",66,New Procedure,Echocardiography
+662,93307,"Echocardiography, Transthoracic, complete, without Doppler",116,New Procedure,Echocardiography
+663,93307,"Echocardiography, complete",86,New Procedure,Echocardiography
+664,93307,"Echocardiography, complete without contrast",1,New Procedure,Echocardiography
+665,93312,CA ECHO TRANS,1,New Procedure,Echocardiography
+666,93320,Cardiac Doppler,1,New Procedure,
+667,93325,Color Flow Imaging,1,New Procedure,
+668,93325,DOPPLER VENOUS U/S,1,New Procedure,
+669,93350,CA ECHO 2D W,1,New Procedure,Echocardiography
+670,93350,STRESS TTE ONLY,1,New Procedure,
+671,93451,"Cardiac Catheterization, right heart",1,New Procedure,
+672,93452,"Cardiac Catheterization, Left Heart, percutaneous",242,New Procedure,
+673,93453,HC R&LHC W LV GRAM,1,New Procedure,
+674,93454,CORONARY ARTERY ANGIO SI,1,New Procedure,CT Angiogram
+675,93458,"Cardiac Catheterization, Left Heart, percutaneous",242,New Procedure,
+676,93458,L HRT ARTERY/VENTRICLE ANGIO,2,New Procedure,CT Angiogram
+677,93458,L HRT Artery/Ventricle Angio,1,New Procedure,CT Angiogram
+678,93505,BIOPSY OF HEART LINING,1,New Procedure,BIOPSY
+679,93798,Cardiac Rehabilitation with Continuous EKG Monitoring,1,New Procedure,
+680,94010,Spirometry,1,New Procedure,
+683,94640,AEROSOL TREATMENT SINGLE,1,New Procedure,
+684,94640,"Inhalation Treatment, pressurized or nonpressurized",280,New Procedure,"Inhalation Treatment, pressurized or nonpressurized"
+685,94640,"Inhalation Treatment, pressurized or nonpressurized (subsequent)",1,New Procedure,"Inhalation Treatment, pressurized or nonpressurized"
+686,94644,"HAND HELD NEB CONTINUOUS,1st",1,New Procedure,
+687,94660,CPAP INITIATION AND MGMNT,1,New Procedure,
+688,94664,M D Inhaler Initial,1,New Procedure,
+690,94760,NONINVASV OXYGEN SATUR;SINGLE,4,New Procedure,
+691,94760,PULSE OX SINGLE DETERMINATION,1,New Procedure,
+692,94772,Apnea Monitor Initial Charge,1,New Procedure,Apnea Monitor Initial Charge
+704,95812,EEG,1,New Procedure,
+730,96152,"Health and Behavior Intervention, each 15 min",1,New Procedure,Individual Therapy
+731,96361,IV HYD ADD HR,1,New Procedure,
+732,96361,IV HYDRATION EA ADD HR,4,New Procedure,
+733,96361,"IV Infusion, Hydration add-on",1,New Procedure,
+734,96372,ED INJECTION SQ/IM,1,New Procedure,
+735,96372,ER O/P THER INJ,1,New Procedure,
+736,96372,ER THER/PRO/DX INJ SQ/IM,1,New Procedure,
+737,96372,"IM, SQ, SC INJECT",1,New Procedure,
+738,96372,"THER/PROPH/DIAG INJ, SC/IM",1,New Procedure,
+739,96372,THERAPEUTIC/PRO/DX INJ SQ/IM,1,New Procedure,
+740,96372,"Therapeutic Injection, Subcutaneous or Intramuscular",1,New Procedure,
+741,96374,ED INJ IVP SNGL/INTL,1,New Procedure,
+742,96374,ER THERAPYPRO//DX IV PUSH INI,1,New Procedure,Electroconvulsive therapy (includes necessary monitoring)
+743,96374,INJ T/P/D IVP,1,New Procedure,
+744,96374,INJ THER/PROPH IV,1,New Procedure,
+745,96374,"IV Push, Single or Initial Drug",1,New Procedure,
+746,96375,ED INJ IVP ADD SEQ NEW,1,New Procedure,
+747,96375,ER THERAPYPRO//DX IV PUSH ADD,1,New Procedure,Electroconvulsive therapy (includes necessary monitoring)
+748,96375,INJ ADD SEQ IVP,1,New Procedure,
+749,96375,"IV Push, Additional New Drug",1,New Procedure,
+750,96375,TX/PR/DX IV PUSH ADDL SEQ NEW,1,New Procedure,
+751,97001,"Physical Therapy, Evaluation",245,New Procedure,Physical Therapy
+752,97035,Ultrasound 15 min OT,1,New Procedure,Ultrasound
+753,97110,OT Thera Ex Ea 15,3,New Procedure,
+754,97110,PT THER EXERCISE EA 15MIN,1,New Procedure,Physical Therapy
+755,97110,"Physical Therapy, Therapeutic Exercise",259,New Procedure,Physical Therapy
+756,97110,Therapeutic Exercise Each 15 Minutes,1,New Procedure,
+757,97112,OT Neuromsclr RE-E,3,New Procedure,
+758,97112,PT Neuro Re Ed,3,New Procedure,Physical Therapy
+759,97113,"Therapeutic procedure, 1 or more areas, each 15 min; aquatic therapy",1,New Procedure,Physical Therapy
+760,97116,PT GAIT/STAIR TRAIN 1 EA 15MIN,1,New Procedure,Physical Therapy
+761,97116,"Physical Therapy, Gait Training",255,New Procedure,Physical Therapy
+762,97140,MANUAL THERAPY 15 MIN,3,New Procedure,Individual Therapy
+763,97140,Manual Therapy 1/> Regions,2,New Procedure,Individual Therapy
+764,97140,Manual Therapy Each 15 Minutes,1,New Procedure,Individual Therapy
+765,97140,PT Manual TX,3,New Procedure,Physical Therapy
+766,97161,"Physical Therapy, Eval Low Complexity 20 Min",2,New Procedure,Physical Therapy
+767,97161,"Physical Therapy, Evaluation",245,New Procedure,Physical Therapy
+768,97161,"Physical Therapy, Evaluation Low Complexity 20 minute",1,New Procedure,Physical Therapy
+769,97161,"Physical Therapy, Evaluation Low complexity",4,New Procedure,Physical Therapy
+770,97161,"Physical Therapy, Evaluation; low complexity",1,New Procedure,Physical Therapy
+771,97161,"Physicial Therapy, Eval Low Complexity 20 Min",1,New Procedure,Physical Therapy
+774,97162,"Physical Therapy, Evaluation",245,New Procedure,Physical Therapy
+775,97162,"Physical Therapy, Evaluation Moderate Complexity",1,New Procedure,Physical Therapy
+776,97162,"Physical Therapy, Evaluation Moderate complexity",4,New Procedure,Physical Therapy
+777,97162,"Physical Therapy, Evaluation; moderate complexity",1,New Procedure,Physical Therapy
+778,97163,"Physical Therapy, Evaluation",245,New Procedure,Physical Therapy
+779,97163,"Physical Therapy, Evaluation High complexity",4,New Procedure,Physical Therapy
+780,97163,"Physical Therapy, Evaluation; high complexity",1,New Procedure,Physical Therapy
+781,97165,OT Eval Low Complex,1,New Procedure,
+783,97530,OT Ther Act Ea 15,3,New Procedure,
+784,97530,PT THER ACTIVITY 1 EA 15MIN,1,New Procedure,Physical Therapy
+785,97530,PT Ther Activity,3,New Procedure,Physical Therapy
+786,97530,PT Therapeutic Activities,1,New Procedure,Physical Therapy
+787,97535,OT SLFCR/HM  Mgmt t,3,New Procedure,
+788,97803,"CPSP Nutrition Assessment, Postpartum",1,New Procedure,
+789,97810,"Acupuncture w/o electrical stimulation, initial 15 min",1,New Procedure,Acupuncture
+790,97811,"Acupuncture w/o electrical stimulation, each additional 15 min",1,New Procedure,Acupuncture
+791,99070,Special supplies phys/qhp,1,New Procedure,
+792,99195,Phlebotomy,1,New Procedure,
+793,99201,Clinic Visit Level 1 - New Patient,1,New Procedure,"Emergency Room Visit, Level 1 (low severity)"
+794,99201,"OFFICE VISIT, NEW, LEVEL 1",1,New Procedure,"Outpatient Visit, established patient"
+795,99201,"URGENT CARE Visit, Level 1",1,New Procedure,"Emergency Room Visit, Level 1 (low severity)"
+796,99202,"URGENT CARE Visit, Level 2",1,New Procedure,"Emergency Room Visit, Level 2 (low to moderate severity)"
+797,99203,Clinic Visit Level 3 - New Patient,1,New Procedure,"Emergency Room Visit, Level 3 (moderate severity)"
+798,99203,E&M-NP LVL III,1,New Procedure,"Emergency Room Visit, Level 3 (moderate severity)"
+799,99203,"URGENT CARE Visit, Level 3",1,New Procedure,"Emergency Room Visit, Level 3 (moderate severity)"
+800,99204,"URGENT CARE Visit, Level 4",1,New Procedure,"Emergency Room Visit, Level 4 (high severity without signigicant threat)"
+801,99205,"URGENT CARE Visit, Level 5",1,New Procedure,"Emergency Room Visit, Level 5 (high severity with significant threat)"
+802,99211,Clinic Visit Level 1 - Established,1,New Procedure,"Outpatient Visit, established patient"
+803,99211,"Outpatient Visit, established patient, 5 minutes",1,New Procedure,"Outpatient Visit, established patient"
+804,99212,"Office Visit, Est., Level 2",1,New Procedure,"Outpatient Visit, established patient"
+805,99212,"Outpatient Visit, established patient, 10 minutes",1,New Procedure,"Outpatient Visit, established patient"
+806,99213,"Outpatient Visit, established patient, 15 minutes",246,New Procedure,"Outpatient Visit, established patient"
+807,99213,"Outpatient Visit, established patient, 15 minutes (Family Practice)",1,New Procedure,"Outpatient Visit, established patient"
+808,99213,"Outpatient Visit, established patient, Moderate Severity",1,New Procedure,"Outpatient Visit, established patient"
+809,99214,History & Physical,1,New Procedure,
+810,99214,"OFFICE VISIT, EST., LEVEL 4",1,New Procedure,"Outpatient Visit, established patient"
+811,99214,"Outpatient Visit, established patient, 25 minutes",1,New Procedure,"Outpatient Visit, established patient"
+812,99215,"Office Visit, Est., Level 5",1,New Procedure,"Outpatient Visit, established patient"
+813,99215,"Outpatient Visit, established patient, 40 minutes",1,New Procedure,"Outpatient Visit, established patient"
+814,99281,ER LEVEL I,1,New Procedure,"Emergency Room Visit, Level 1 (low severity)"
+815,99281,"Emergency Department Visit, Level 1",1,New Procedure,"Emergency Room Visit, Level 1 (low severity)"
+816,99281,"Emergency Room Visit, Level 1",5,New Procedure,"Emergency Room Visit, Level 1 (low severity)"
+817,99281,"Emergency Room Visit, Level 1 (low severity)",1,New Procedure,"Emergency Room Visit, Level 1 (low severity)"
+818,99282,"*Emergency Room Visit, Level 2 (low to moderate severity)",1,New Procedure,"Emergency Room Visit, Level 2 (low to moderate severity)"
+819,99282,"Emergency Room Visit, Level 2",32,New Procedure,"Emergency Room Visit, Level 2 (low to moderate severity)"
+820,99282,"Emergency Room Visit, Level 2 (low to moderate severity)",260,New Procedure,"Emergency Room Visit, Level 2 (low to moderate severity)"
+821,99282,"Emergency Room Visit, Level 3",37,New Procedure,"Emergency Room Visit, Level 3 (moderate severity)"
+822,99283,"*Emergency Room Visit, Level 3 (moderate severity)",1,New Procedure,"Emergency Room Visit, Level 3 (moderate severity)"
+823,99283,ER VISIT LEVEL III,1,New Procedure,"Emergency Room Visit, Level 3 (moderate severity)"
+824,99283,"Emergency Room Visit, Level 3",37,New Procedure,"Emergency Room Visit, Level 3 (moderate severity)"
+825,99283,"Emergency Room Visit, Level 3 (low to moderate severity)",1,New Procedure,"Emergency Room Visit, Level 3 (moderate severity)"
+826,99283,"Emergency Room Visit, Level 3 (moderate severity)",263,New Procedure,"Emergency Room Visit, Level 3 (moderate severity)"
+827,99284,"*Emergency Room Visit, Level 4 (high severity)",1,New Procedure,"Emergency Room Visit, Level 4 (high severity without signigicant threat)"
+828,99284,ER VISIT LEVEL IIII,1,New Procedure,"Emergency Room Visit, Level 4 (high severity without signigicant threat)"
+829,99284,"Emergency Room Visit, Level 4",34,New Procedure,"Emergency Room Visit, Level 4 (high severity without signigicant threat)"
+830,99284,"Emergency Room Visit, Level 4 (high severity w/o signigicant threat)",1,New Procedure,"Emergency Room Visit, Level 4 (high severity without signigicant threat)"
+831,99284,"Emergency Room Visit, Level 4 (high severity with significant threat)",187,New Procedure,"Emergency Room Visit, Level 4 (high severity without signigicant threat)"
+832,99284,"Emergency Room Visit, Level 4 (high severity without significant threat)",2,New Procedure,"Emergency Room Visit, Level 4 (high severity without signigicant threat)"
+833,99284,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",182,New Procedure,"Emergency Room Visit, Level 4 (high severity without signigicant threat)"
+834,99284,"Emergency Room Visit, Level 4 (high severity)",74,New Procedure,"Emergency Room Visit, Level 4 (high severity without signigicant threat)"
+835,99284,"Emergency Room Visit, Level 4 (moderate severity)",1,New Procedure,"Emergency Room Visit, Level 4 (high severity without signigicant threat)"
+836,99285,ED LEVEL 5,1,New Procedure,"Emergency Room Visit, Level 5 (high severity with significant threat)"
+837,99285,ER VISIT LEVEL IIIII,1,New Procedure,"Emergency Room Visit, Level 5 (high severity with significant threat)"
+838,99285,"Emergency Room Visit, Level 4 (high severity with significant threat)",187,New Procedure,"Emergency Room Visit, Level 4 (high severity without signigicant threat)"
+839,99285,"Emergency Room Visit, Level 5",5,New Procedure,"Emergency Room Visit, Level 5 (high severity with significant threat)"
+840,99285,"Emergency Room Visit, Level 5 (high complexity)",2,New Procedure,"Emergency Room Visit, Level 5 (high severity with significant threat)"
+841,99285,"Emergency Room Visit, Level 5 (high severity with significant threat)",3,New Procedure,"Emergency Room Visit, Level 5 (high severity with significant threat)"
+842,99285,"Emergency Room Visit, Level 5 (high severity without signigicant threat)",1,New Procedure,"Emergency Room Visit, Level 5 (high severity with significant threat)"
+843,99285,"Emergency Room Visit, Level 5 (high severity)",2,New Procedure,"Emergency Room Visit, Level 5 (high severity with significant threat)"
+608,9131095,GROUP EDUCATION SIERRA,2,New Procedure,GROUP THERAPY
+609,9131096,GROUP EDUCATION FOLSOM,2,New Procedure,GROUP THERAPY
+610,9172008,FAMILY TX W/PATIENT,2,New Procedure,FAMILY THERAPY
+611,9173709,PSYCH HALF DAY,2,New Procedure,Individual Therapy
+612,9179311,GROUP PSYCHOTHERAPY SIER,2,New Procedure,GROUP THERAPY
+613,9179312,GROUP PSYCHOTHERAPY FOLS,2,New Procedure,GROUP THERAPY
+614,9179370,PHP DUAL DIAG SIERRA,2,New Procedure,
+615,9179371,PHP DUAL DIAG FOLSOM,2,New Procedure,
+616,9193119,PHP FULL DAY UNBNDLD,2,New Procedure,
+617,9193129,INDIVIDUAL TX,2,New Procedure,
+618,9193604,PHP ADULT FULL DAY SIERR,2,New Procedure,
+619,9193605,PHP ADULT FULL DAY FOLSO,2,New Procedure,
+681,9410028,OPS GROUP THERAPY,2,New Procedure,GROUP THERAPY
+682,9431115,INDIV THERAPY 30 MIN,2,New Procedure,Individual Therapy
+689,9472002,FAMIL TX W/PT THERAPEUTI,2,New Procedure,FAMILY THERAPY
+693,9479310,CD IOP NON MCARE SIERRA,2,New Procedure,
+694,9479311,CD IOP NON MCARE FOLSOM,2,New Procedure,
+695,9479360,INTENSIVE OUTPATIENT,2,New Procedure,
+696,9479371,INTENSIVE IOP PSYCH SIER,2,New Procedure,
+697,9479372,INTENSIVE IOP PSYCH FOLS,2,New Procedure,
+698,9479627,GROUP PSYCH THERAPEUTIC,2,New Procedure,GROUP THERAPY
+699,9480005,INTENSIVE ADOL IOP SIERR,2,New Procedure,
+700,9480006,INTENSIVE ADOL IOP FOLSO,2,New Procedure,
+701,9493121,PROCESS GROUP,2,New Procedure,
+702,9493122,ADULT OP VISIT,2,New Procedure,
+703,9493131,INDIV TX THERAPEUTIC SVC,2,New Procedure,
+0,0G0121,COLORECTAL CANCER SCREENING; COLONOSCOPY ON INDIVIDUAL NOT MEETING CRITERIA FOR HIGH RISK,1,New Procedure,
+16,15821-15823,BLEPHAROPLASTY UPPER/LOWER,1,New Procedure,Blepharoplasty 
+57,28285-28270,CORRECTION HAMMERTOE,1,New Procedure,
+207,58260-57260,VAG HYSTERECTOMY,1,New Procedure,Hysteroscopy
+248,62322-62323,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",218,New Procedure,Epidural
+302,71020 (71046),"X-Ray, Chest, two views",288,New Procedure,X-ray
+439,81000 or 81001,"Urinalysis, with microscopy",263,New Procedure,Urinalysis
+447,81002 or 81003,URINALYSIS AUTO W/O MICRO,1,New Procedure,Urinalysis
+448,81002 or 81003,"Urinalysis, without microscopy",256,New Procedure,Urinalysis
+522,84443*,Thyroid Stimulating Hormone,292,New Procedure,
+539,85610*,Prothrombin Time,292,New Procedure,
+544,85730*,Partial Thromboplastin Time,289,New Procedure,Partial Thromboplastin
+628,93000 or 93005,"Electrocardiogram, routine, with interpretation and report",231,New Procedure,Electrocardiogram
+705,96030OVM20,EMERGENCY MEDICINE,1,New Procedure,
+706,96030OVM21,EMERGENCY PSYCH,1,New Procedure,
+707,9603O08Z11,CARDIOLOGY C,1,New Procedure,
+708,9603O08Z48,ONCOLOGY,1,New Procedure,
+709,9603O10Z98,SURGERY - OPHTHALMOLOGY OPD,1,New Procedure,Surgery
+710,9603O10ZYB,SURGERY - OTOLARYNGOLOGY,1,New Procedure,Surgery
+711,9603O19ZZS,GYNECOLOGY D,1,New Procedure,
+712,9603O1CZ35,OP  MEDICINE CONTINUING CARE,1,New Procedure,
+713,9603O30Z79,RHEUMATOLOGY E,1,New Procedure,
+714,9603O30ZZC,SURGERY - PODIATRY OPD,1,New Procedure,Surgery
+715,9603O41Z57,PEDIATRICS M,1,New Procedure,
+716,9603O41Z64,PRIMARY CARE M,1,New Procedure,
+717,9603O46Z57,PEDIATRICS,1,New Procedure,
+718,9603O78Z05,ANTICOAGULATION,1,New Procedure,
+719,9603OAMC64,PRIMARY CARE,1,New Procedure,
+720,9603OBJZ64,PRIMARY CARE P,1,New Procedure,
+721,9603OENZ91,SURGERY - GENERAL OPD,1,New Procedure,Surgery
+722,9603OENZZB,SURGERY - PLASTIC OPD,1,New Procedure,Surgery
+723,9603OENZZG,SURGERY - UROLOGY OPD,1,New Procedure,Surgery
+724,9603OH1Z57,PEDS HUB,1,New Procedure,
+725,9603OOVM04,ANESTHESIA PRE-OP,1,New Procedure,
+726,9603OOVM11,CARDIOLOGY CL,1,New Procedure,
+727,9603OOVM68,PULMONARY,1,New Procedure,
+728,9603OOVMYH,OBSTETRICS,1,New Procedure,
+729,9603OOVMZI,URGENT CARE,1,New Procedure,
+772,97161 - 97163,"Physical Therapy, Evaluation",245,New Procedure,Physical Therapy
+773,97161-97163,"Physical Therapy, Evaluation",245,New Procedure,Physical Therapy
+782,97165-97167,Occupational Therapy Evaluation,3,New Procedure,Physical Therapy
+844,G0121,Colorectal cancer screening,1,New Procedure,Colonoscopy
+845,G0129,PARTIAL HOSP PROG SERVICE,1,New Procedure,
+846,G0176,ACTIVITY THERAPY,4,New Procedure,Physical Therapy
+847,G0176,GROUP PSYCHOTHERAPY/ACTIVITY THERAPY,2,New Procedure,GROUP THERAPY
+848,G0176,OPPS/PHP;ACTIVITY THERAPY,1,New Procedure,Physical Therapy
+849,G0177,EDUCATION TRAINING,2,New Procedure,
+850,G0177,GROUP PSYCHOTERAPY/EDUCATION,1,New Procedure,GROUP THERAPY
+851,G0177,GROUP PSYCHOTHERAPY/EDUCATION,3,New Procedure,GROUP THERAPY
+852,G0177,OPPS/PHP; TRAIN  EDUC SERV,1,New Procedure,
+853,G0277,"Hyperbaric Oxygen Under Pressure, Full Body Chamber, per 30 Minutes",1,New Procedure,
+854,G0410,GROUP PSYCHOTHERAPY,10,New Procedure,GROUP THERAPY
+855,G0410,GROUP THERAPY PHP,2,New Procedure,GROUP THERAPY
+856,G0410,GRP PSYCH PARTIAL,2,New Procedure,GROUP THERAPY
+857,G0410,GRP PSYCH PARTIAL HOSP 45-50,1,New Procedure,GROUP THERAPY
+858,G0410,PHP GROUP THERAPY 60MIN,1,New Procedure,GROUP THERAPY
+859,G0463,Outpatient Visit,5,New Procedure,
+860,G0463/99213,"Outpatient Visit, established patient, 15 minutes",246,New Procedure,"Outpatient Visit, established patient"
