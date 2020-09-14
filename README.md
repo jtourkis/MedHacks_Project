@@ -5,7 +5,7 @@
 <br />
 
   
-  <h3 align="center">Kickstarter Campaign Evaluation</h3>
+  <h3 align="center">John Hopkins MedHacks Project</h3>
   
 <p align="center">
   <a href="https://github.com/jtourkis/MedHacks_Project">
