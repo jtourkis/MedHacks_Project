@@ -97,7 +97,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 **Goal:** Our team compiled 2019 common hospital procedure average cost information submitted to California's OSHPD into a single dataset. This code attempts to systematically clean the cost information.
 
-**Main Challenges to Overcome:**
+**Main Challenges Overcome:**
 
 1) Hospitals submitted data in different formats. Some observations included: $ , ; - etc
 2) Some hospitals included more than one value per cell
