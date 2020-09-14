@@ -4,18 +4,14 @@
 
 <br />
 
-  
-  <h3 align="center">John Hopkins MedHacks Project</h3>
-  
 <p align="center">
   <a href="https://github.com/jtourkis/MedHacks_Project">
     <img src="logo.png" alt="AB" width="800" height="300" style="border:5px solid black">
   </a>
  
   <p align="center">
+  <h3 align="center">John Hopkins MedHacks Project</h3>
     **Goal:** The project aggregates average cost data from 300 individual CA OSHPD hospital submissions of 25 medical procedures, cleans that data, and uses Tableau to visualize data in an easier to navigate format.
-
-
     <br />
     <a href="https://github.com/jtourkis/MedHacks_Project"><strong>Explore the docs »</strong></a>
     <br />
